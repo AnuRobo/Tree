@@ -27,6 +27,7 @@ DFS - 10, 20, 40, 50, 30
 	we visit the left subtree first (whole), then we visit the root, then we visit the right subtree (whole)
 
 Exercise:
+
 	       10
 	     /    \
 	    20    30
